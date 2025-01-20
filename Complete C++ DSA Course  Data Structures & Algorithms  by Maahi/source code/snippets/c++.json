@@ -1,0 +1,20 @@
+
+{"c++": {
+    "prefix": "c++",
+    "body": [
+    "#include <iostream>",
+    "using namespace std;",
+    "",
+    "int main() {",
+    "    $1",
+    "    cout << \"-----------\" << endl;",
+    "    cout << \"thank you!\" << endl;",
+    "    cout << \"maahi..\" << endl;",
+    "    return 0;",
+    "}"
+
+    ],
+    "description": "create by maahi.."
+    }
+    
+}
