@@ -91,7 +91,7 @@ The repository is organized into lectures, each containing source code for speci
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/cpp-dsa-course.git
+   git clone https://github.com/maahive-77/cpp-dsa-course.git
    ```
 2. Navigate to the desired lecture folder.
 3. Open the `.cpp` file in your favorite C++ IDE (e.g., VS Code, Code::Blocks).
